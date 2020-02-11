@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1AA62699-7C39-4CF5-88A2-94B40B0ABAF1}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ArguExamplesTests", "tests\ArguExamplesTests\ArguExamplesTests.fsproj", "{7B7B968B-4163-4FBE-BAFC-21C98088E25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7B968B-4163-4FBE-BAFC-21C98088E25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7B968B-4163-4FBE-BAFC-21C98088E25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7B968B-4163-4FBE-BAFC-21C98088E25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7B968B-4163-4FBE-BAFC-21C98088E25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B7B968B-4163-4FBE-BAFC-21C98088E25D} = {1AA62699-7C39-4CF5-88A2-94B40B0ABAF1}
+	EndGlobalSection
+EndGlobal
